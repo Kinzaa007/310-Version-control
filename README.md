@@ -19,6 +19,6 @@ quasar dev
 quasar build
 ```
 
-### Customize the configurationsss
+### Customize the configurationss
 
 See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-file).
