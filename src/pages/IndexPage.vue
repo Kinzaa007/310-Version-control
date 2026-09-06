@@ -17,7 +17,7 @@
     <q-input color="teal" filled v-model="text" label="Label(นามสกุลสีดำ)">
 >>>>>>> iss53
       <template v-slot:prepend>
-        <q-icon name="event" />
+        <q-icon name="event" /
       </template>
     </q-input>
 
